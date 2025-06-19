@@ -5,5 +5,5 @@ This repository contains hands-on coding solutions and output screenshots for th
 ## 📁 Folder Structure
 
 Organized by **week** and **skill area**, each task includes:
-- ✅ Java source code (`/Code`)
+- ✅ Java / C# source code (`/Code`)
 - 🖼️ Output screenshots (`/Output`)
