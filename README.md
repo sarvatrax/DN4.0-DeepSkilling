@@ -5,3 +5,4 @@ This repository contains hands-on coding solutions and output screenshots for th
 Organized by **week** and **skill area**, each task includes:
 - ✅ Java / C# source code (`/Code`)
 - 🖼️ Output screenshots (`/Output`)
+- 📄 Word files (if mentioned) (`/Doc`)
