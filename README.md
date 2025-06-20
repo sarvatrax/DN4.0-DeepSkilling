@@ -8,4 +8,20 @@ Organized by **week** and **skill area**, each task includes:
 - 📄 Word files (if mentioned) (`/Doc`)
 
 File Structure:
-<pre> <code> ```markdown DN4.0-DeepSkilling/ │ ├── Week_1_DesignPrinciplesAndPatterns/ │ ├── 1_SingletonPattern/ │ └── 2_FactoryMethodPatternExample/ │ ├── Week_1_DataStructuresAndAlgorithms/ │ ├── E-commercePlatformSearchFunction/ │ └── FinancialForecasting/ │ ├── Week_2_DesignPrinciplesAndPatterns/ │ └── [To be added] │ ├── Week_2_DataStructuresAndAlgorithms/ │ └── [To be added] ``` </code> </pre>
+```
+DN4.0-DeepSkilling/
+│
+├── Week_1_DesignPrinciplesAndPatterns/
+│   ├── SingletonPattern/
+│   └── FactoryMethodPatternExample/
+│
+├── Week_1_DataStructuresAndAlgorithms/
+│   ├── E-commercePlatformSearchFunction/
+│   └── FinancialForecasting/
+│
+├── Week_2
+│   └── [To be added]
+│
+├── Week_2
+│   └── [To be added]
+```
